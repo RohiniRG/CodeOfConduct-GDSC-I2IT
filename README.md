@@ -19,7 +19,7 @@ Welcome to our community! This is a place to learn and grow together. By partici
 
 
 ### 3️⃣  Reporting incidents: 
- - Email: rohinirao2112@gmail.com
+ - Email: [rohinirao2112@gmail.com](mailto:rohinirao2112@gmail.com)
 
 
 ### 4️⃣  Consequences for breaking the Code of Conduct:
